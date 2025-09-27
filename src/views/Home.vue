@@ -1,8 +1,4 @@
-<script setup lang="ts">
-defineOptions({
-  name: 'HomePage',
-})
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div>
